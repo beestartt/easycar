@@ -3558,17 +3558,18 @@ section#map_area {
   background: #FFFFFF;
 }
 .rev_slider_wrapper #slider1 .slider_p {
-  color: #FEFEFE;
+  color: black;
   font-size: 20px;
   font-weight: normal;
   text-transform: none;
 }
 .rev_slider_wrapper #slider1 .slider-btn {
-  color: #FEFEFE;
+  color: ##fdbf13;
   font-size: 13px;
   text-transform: uppercase;
   font-weight: bold;
-  border: 2px solid #FFFFFF;
+  border: 2px solid #fdbf13;
+  background: #fdbf13;
   line-height: 40px;
   display: inline-block;
   padding: 0 25px;
@@ -3576,8 +3577,8 @@ section#map_area {
   transition: all .3s ease !important;
 }
 .rev_slider_wrapper #slider1 .slider-btn:hover {
-  background: #fdbf13;
-  border-color: #fdbf13;
+  background: #transparent;
+  border-color: #fff;
   color: #fff;
 }
 .rev_slider_wrapper #slider1 .slider-btn.clrd {
