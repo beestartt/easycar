@@ -78,7 +78,6 @@ a:focus {
     outline: none;
 }
 img {
-    max-width: 25% !important;
     max-height: 25% !important;
 }
 input[type="text"],
