@@ -144,7 +144,7 @@ input[type="email"] {
 
 .column_details  p{
 	font-family: 'Open Sans', sans-serif;
-	color:#727272;
+	color:#fff;
 	font-size:13px;
 }
 .details_icon i {
@@ -159,7 +159,7 @@ input[type="email"] {
 
 .column_right h2 {
     font-family: 'Open Sans', sans-serif;
-    color: #575757;
+    color: #fff;
     font-size: 14px;
     line-height: 0px;
 }
@@ -1437,7 +1437,7 @@ hr.horizenal {
     padding-bottom: 20px;
 }
 .copy_right span{
-	 color: #ff4848;
+	 color: #fdbf13;
     font-family: Open Sans;
     font-size: 12px;
 }
