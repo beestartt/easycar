@@ -3604,3 +3604,6 @@ section#map_area {
   left: 20px;
   right: -20px;
 }
+.ec-header-color{
+  background-color: #595959;
+}
