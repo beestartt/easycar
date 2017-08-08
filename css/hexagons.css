@@ -299,7 +299,7 @@ inv 		= Inverse Behaver of buttons
 .hb:hover,
 .hb:hover:before,
 .hb:hover:after {
-	background: #ef5050;  
+	background: #595959;  
 	border-left:0px solid #2ecc71;
 	border-right:0px solid #2ecc71;  
 	color: #fff; /* Default hover font color */
