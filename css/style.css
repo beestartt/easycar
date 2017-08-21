@@ -1228,7 +1228,7 @@ div#brand_area {
 
  /*** Footer main area ***/
 #footer_area {
-    background:#000 url(../img/home-v1/footer-bg.jpg);
+    background:#000;
     padding-top: 50px;
     -webkit-background-size: cover;
     background-size: cover;
