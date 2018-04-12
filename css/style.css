@@ -3613,3 +3613,11 @@ section#map_area {
 .white-text{
   color: #FFFFFF !important;
 }
+
+html { 
+  background: url(../img/under_construction.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
